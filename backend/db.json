@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "description": "Coca Cola 2,5L",
+      "price": 10.99
+    },
+    {
+      "id": 3,
+      "description": "Notebook Acer ASPIRE 5",
+      "price": 3700
+    },
+    {
+      "id": 4,
+      "description": "SmartTV AOC 40 Polegadas",
+      "price": 2000
+    },
+    {
+      "description": "Película de IPhone",
+      "price": 120.99,
+      "id": 5
+    },
+    {
+      "description": "iPhone 12",
+      "price": "12000",
+      "id": 6
+    },
+    {
+      "description": "Geladeira",
+      "price": "5000",
+      "id": 7
+    }
+  ]
+}
